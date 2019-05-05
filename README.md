@@ -21,32 +21,32 @@
 
 ## Assignment Description
 
-* Complete all the exercises as described inside each assignment file.
-[x]Use `console.log()` statements to check to see if your code does what it is supposed to do.
-[x] To test your `console.log()` statements open up the index.html file found in the assignments folder and use the developer tools to view the console.  
+* [X] Complete all the exercises as described inside each assignment file.
+* [x] Use `console.log()` statements to check to see if your code does what it is supposed to do.
+* [x] To test your `console.log()` statements open up the index.html file found in the assignments folder and use the developer tools to view the console.  
 
 **Note:**You could also run `node /assignments/<fileName>` and see what prints in your terminal.
 
-[x] Once you finish the exercises in each file, commit your code, and push it to your fork.
+*  [x] Once you finish the exercises in each file, commit your code, and push it to your fork.
 
 ### Objects
 
 To better understand objects, you really just need to write more of them. The [objects.js](assignments/objects.js) file contains several challenges centered around a theme of interns starting at a new job. The Human Resources team needs information about the new hires. Use your new found object skills answer vital questions for HR.
 
 [x] Read the instructions found within the file carefully to finish the challenges
-[8] Don't work on stretch until you have completed all assignments
+[X] Don't work on stretch until you have completed all assignments
 
 ### Arrays
 
 The [arrays.js](assignments/arrays.js) assignment takes us through a large data set of used cars.  You have been asked to help a used car business with some customer requests based on their inventory.  Use for loops and arrays to solve their problems.
 
-[x] Utilize the the array `inventory` to complete your challenges
-[x] Use any array method you see fit to solve the problem
-[x] Don't work on stretch until you have completed all assignments
+*   [x] Utilize the the array `inventory` to complete your challenges
+*   [x] Use any array method you see fit to solve the problem
+*   [x] Don't work on stretch until you have completed all assignments
 
 ### Arrow Function Syntax
 
-* [ ] Arrow Function Syntax - [Check out this awesome guide for ES6 arrow syntax](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26). You will see more and more arrow functions as you progress deeper into JavaScript. Use the [function-conversion.js](assignments/function-conversion.js) file as a helper challenge to showcase some of the differences between ES5 and ES6 syntax.  
+* [X] Arrow Function Syntax - [Check out this awesome guide for ES6 arrow syntax](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26). You will see more and more arrow functions as you progress deeper into JavaScript. Use the [function-conversion.js](assignments/function-conversion.js) file as a helper challenge to showcase some of the differences between ES5 and ES6 syntax.  
 
 ### Stretch
 
