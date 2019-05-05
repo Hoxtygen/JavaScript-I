@@ -6,43 +6,43 @@
 
 **Follow these steps to set up and work on your project:**
 
-* [ ] Create a forked copy of this project.
-* [ ] Add your project manager as collaborator on Github.
-* [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-* [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-* [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-* [ ] Push commits: git push origin `<firstName-lastName>`.
+* [x] Create a forked copy of this project.
+* [x] Add your project manager as collaborator on Github.
+* [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
+* [x] Create a new branch: git checkout -b `<firstName-lastName>`.
+* [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+* [x] Push commits: git push origin `<firstName-lastName>`.
 
 **Follow these steps for completing your project.**
 
-* [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-* [ ] Add your project manager as a reviewer on the pull-request
+* [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+* [x] Add your project manager as a reviewer on the pull-request
 * [ ] Your project manager will count the project as complete by merging the branch back into master.
 
 ## Assignment Description
 
 * Complete all the exercises as described inside each assignment file.
-* Use `console.log()` statements to check to see if your code does what it is supposed to do.
-* To test your `console.log()` statements open up the index.html file found in the assignments folder and use the developer tools to view the console.  
+[x]Use `console.log()` statements to check to see if your code does what it is supposed to do.
+[x] To test your `console.log()` statements open up the index.html file found in the assignments folder and use the developer tools to view the console.  
 
 **Note:**You could also run `node /assignments/<fileName>` and see what prints in your terminal.
 
-* Once you finish the exercises in each file, commit your code, and push it to your fork.
+[x] Once you finish the exercises in each file, commit your code, and push it to your fork.
 
 ### Objects
 
 To better understand objects, you really just need to write more of them. The [objects.js](assignments/objects.js) file contains several challenges centered around a theme of interns starting at a new job. The Human Resources team needs information about the new hires. Use your new found object skills answer vital questions for HR.
 
-* Read the instructions found within the file carefully to finish the challenges
-* Don't work on stretch until you have completed all assignments
+[x] Read the instructions found within the file carefully to finish the challenges
+[8] Don't work on stretch until you have completed all assignments
 
 ### Arrays
 
 The [arrays.js](assignments/arrays.js) assignment takes us through a large data set of used cars.  You have been asked to help a used car business with some customer requests based on their inventory.  Use for loops and arrays to solve their problems.
 
-* Utilize the the array `inventory` to complete your challenges
-* Use any array method you see fit to solve the problem
-* Don't work on stretch until you have completed all assignments
+[x] Utilize the the array `inventory` to complete your challenges
+[x] Use any array method you see fit to solve the problem
+[x] Don't work on stretch until you have completed all assignments
 
 ### Arrow Function Syntax
 
